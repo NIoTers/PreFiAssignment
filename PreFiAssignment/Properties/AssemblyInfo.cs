@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PreFiAssignment")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Created by Dr.House (shinonome, kuukolol, kao)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Nioters")]
 [assembly: AssemblyProduct("PreFiAssignment")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
