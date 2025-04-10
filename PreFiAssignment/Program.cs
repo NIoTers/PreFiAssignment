@@ -23,7 +23,8 @@ namespace PreFiAssignment
                 {
                     if (index < fullName.Length)
                     {
-                        lettersArray[i, j] = fullName[index++];
+                        lettersArray[i, j] = fullName[index];
+                        index++;
                     }
                     else
                     {
